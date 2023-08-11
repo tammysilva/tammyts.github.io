@@ -1,6 +1,5 @@
 ---
 title:  "Diamond Price Prediction in R"
-"
 mathjax: true
 layout: post
 categories: media
