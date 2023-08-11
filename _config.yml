@@ -16,7 +16,7 @@ minimal: ture            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "Tammy.pdf", url: "<a href="tammyts.github.io/Tammy.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a>", title: "CV"}
+  - {file: "Tammy.pdf", url: "<a href="tammysilva.github.io/tammyts.github.io/Tammy.pdf" target="_blank">PDF.</a>", title: "CV"}
   - {file: "project.md", title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
