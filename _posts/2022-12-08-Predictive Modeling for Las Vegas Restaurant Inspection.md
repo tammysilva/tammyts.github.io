@@ -5,4 +5,4 @@ layout: post
 categories: media
 ---
 
-![LV Restaurant](/assets/LV Restaurant.jpg)
+![Restaurant](/assets/Restaurant.jpg)
