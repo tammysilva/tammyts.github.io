@@ -1,5 +1,5 @@
 ---
-title:  "Data Analysis of ELL Students’ Eligibility for Reclassification"
+title:  "Data Analysis of ELL Students' Eligibility for Reclassification"
 mathjax: true
 layout: post
 categories: media
