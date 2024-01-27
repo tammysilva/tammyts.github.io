@@ -16,7 +16,7 @@ minimal: true            # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {url: "https://github.com/tammysilva/tammyts.github.io/blob/master/Tammy.pdf", title: "CV"}
+  - {url: "https://drive.google.com/file/d/1DqwwhRZz2hKha2bit0rNa7YJUxO9LneT/view?usp=sharing", title: "CV"}
   - {file: "project.md", title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
