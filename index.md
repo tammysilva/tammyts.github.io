@@ -3,8 +3,10 @@ layout: page
 title: ""
 ---
 
-I had been working as an educator for about 8 years previously and gained valuable teaching experience in both China and USA. During that time, My primary goal focused on improving students' academic performance and personal growth by enhancing their learning journey. 
+In my previous career as an educator spanning over 8 years in both China and the USA, my focus was on enriching students' academic journey and personal growth. However, I soon realized the critical role of a family's financial stability in fostering a conducive learning environment. This realization led me to explore the financial industry, where I began by offering financial planning services during breaks and holidays.
 
-But later on I realized that a family's financial situation plays an important part in creating a stable study environment for the students. And this compelled me to venture into financial industry where I started from financial planning for families during holidays and breaks. This transition in my career path allowed me to develop skills in data analytics, problem solving and communication, particularly in handling extensive data analysis tasks. Moreover, it underscored the profound impact of data-driven decision making. 
+This career transition has allowed me to further develop my skills in data analytics, problem-solving, and communication, particularly when it comes to handling complex data analysis tasks. It has also emphasized the significant influence of data-driven decision-making across different functionalities.
 
-Movitated by a strong desire for personal growth and professional development, I decided to dive into data science by getting a master's degree in 2021. Now towards the end of this study journey, I am so glad that I made that brave move. With the necessary knowledge and skillsets in data mining and machine learning, I am able to use visualization and modeling to identify issues or roadblocks, address the problem or mitigate the risks by providing solutons or recommendations based on my domain knowledge and prior experience.
+Motivated by a thirst for personal and professional growth, I pursued a master's degree in data science in 2021. As the completion of this journey, I reflect on the bold step I took and am grateful for the experiences gained, including my time at a startup in educational services.
+
+Now, equipped with both academic knowledge and practical experience, I am thrilled to continue my journey in data science. I am eager to use my expertise in data mining and machine learning to tackle challenges, identify opportunities, and provide actionable insights based on my domain knowledge and past experiences.
